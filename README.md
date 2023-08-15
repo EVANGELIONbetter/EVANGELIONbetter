@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas Vindas 
 
-<!--
-**EVANGELIONbetter/EVANGELIONbetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**EVANGELIONbetter/EVANGELIONbetter** I am a fan of NEON GENESIS EVANGELION
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 “A humanidade é provavelmente a única criatura capaz de odiar sua própria espécie.”
+- 🌱 Shinji Ikanri better
+- 👯 Misato
+
+  ![](https://media.tenor.com/c2x8PMbn2_gAAAAC/neon-genesis-evangelion-power.gif)
+  
